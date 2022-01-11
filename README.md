@@ -12,5 +12,5 @@ PyTorch
 
 FastAPI
 
-
+Dataset Link : https://www.kaggle.com/aditya276/face-mask-dataset-yolo-format
 
